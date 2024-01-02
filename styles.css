@@ -1,0 +1,406 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body {
+    background-color: #1b1b1b;
+    animation: fadeIn 4s;
+}
+
+.identity {
+    width: 350px;
+    height: 890px;
+    background-color: #29292a ;
+    border: 0px solid white;
+    border-radius: 30px;
+    position: absolute;
+    left: 14%;
+    top: 5%;
+    border: 0.2px solid #555555;
+    font-family: "Ubuntu";
+    font-size: 400;
+    animation: fadeIn 4s;
+}
+@keyframes fadeIn {
+    0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.profile-pic-zr {
+    position: absolute;
+    left: 18%;
+    top: 8%;
+}
+
+.name-zauraiz {
+    color: #f2f3f4;
+    position: absolute;
+    left: 27%;
+    top: 34%;
+}
+
+.front-end {
+    width: 190px;
+    height: 50px;
+    background-color: #343434;
+    position: absolute;
+    left: 18.3%;
+    top: 45%;
+    border-radius: 15px;
+    
+}
+
+.front-end-dev-h1 {
+    color: #C0C0C0;
+    font-family: "Ubuntu";
+    font-size: 16px;
+    position: absolute;
+    left: 11.4%;
+    top: 5%;
+    font-weight: normal;
+}
+
+.break-line {
+    border: 0.2px solid #555555;
+    width: 280px;
+    height: 0.1px;
+    position: absolute;
+    left: 16%;
+    top: 54%;
+    
+}
+
+.email-div {
+    width: 53px;
+    height: 53px;
+    border: 0.2px solid #555555;
+    position: absolute;
+    left: 16%;
+    top: 57%;
+    background-color:#343434 ;
+    border-radius: 15px;
+}
+
+.email-div-logo {
+    position: absolute;
+    left: 20%;
+    top: 19.9%;
+}
+
+.email {
+    font-family: "Ubuntu";
+    color: #7a7a7a;
+    font-size: 14px;
+    position : absolute ;
+    left: 19.8%;
+    top: 56.3%;
+}
+
+.email-zr {
+    color:#f2f3f4 ;
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: lighter;
+    position: absolute;
+    left: 19.8%;
+    top: 58.5%;
+}
+
+.phone-div {
+    width: 53px;
+    height: 53px;
+    border: 0.2px solid #555555;
+    position: absolute;
+    left: 16%;
+    top: 65%;
+    background-color:#343434 ;
+    border-radius: 15px;
+}
+
+.phone {
+    position: absolute;
+    left: 19%;
+    top: 19.9%;
+}
+
+.phone-no {
+    font-family: "Ubuntu";
+    color: #7a7a7a;
+    font-size: 14px;
+    position : absolute ;
+    left: 19.8%;
+    top: 64.7%;
+}
+
+.phone- {
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: lighter;
+    position: absolute;
+    left: 19.7%;
+    top: 67%;
+    color: #f2f3f4;
+}
+
+.birth-date {
+    width: 53px;
+    height: 53px;
+    border: 0.2px solid #555555;
+    position: absolute;
+    left: 16%;
+    top: 73%;
+    background-color:#343434 ;
+    border-radius: 15px;
+}
+
+.calendar {
+    position: absolute;
+    left: 19%;
+    top: 19.9%;
+}
+
+.calendar-h1 {
+    font-family: "Ubuntu";
+    color: #7a7a7a;
+    font-size: 14px;
+    position : absolute ;
+    left: 19.8%;
+    top: 72.6%;
+}
+
+.date {
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: lighter;
+    position: absolute;
+    left: 19.7%;
+    top: 74.6%;
+    color: #f2f3f4;
+}
+
+.location-div {
+    width: 53px;
+    height: 53px;
+    border: 0.2px solid #555555;
+    position: absolute;
+    left: 16%;
+    top: 81%;
+    background-color:#343434 ;
+    border-radius: 15px;
+}
+
+.location-png {
+    position: absolute;
+    left: 19%;
+    top: 19.9%;
+}
+
+.locationh1 {
+    font-family: "Ubuntu";
+    color: #7a7a7a;
+    font-size: 14px;
+    position : absolute ;
+    left: 19.8%;
+    top: 80%;
+}
+
+.address {
+    font-family: "Ubuntu";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: lighter;
+    position: absolute;
+    left: 19.7%;
+    top: 81.9%;
+    color: #f2f3f4;
+}
+
+.fb {
+    position: absolute;
+    left: 19%;
+    top: 90%;
+}
+
+.insta {
+    position: absolute;
+    left: 22%;
+    top: 90%;
+}
+
+.twitter {
+    position: absolute;
+    left: 25%;
+    top: 90%;
+}
+
+.portfolio-div{
+    width: 1020px;
+    height: 1200px;
+    background-color: #29292a ;
+    border: 0px solid white;
+    border-radius: 30px;
+    position: absolute;
+    left: 35%;
+    top: 5%;
+    border: 0.2px solid #555555;
+    font-family: "Ubuntu";
+    font-size: 400;
+}
+
+.abt-me {
+    font-family: "Ubuntu";
+    position: absolute;
+    font-size: 400;
+    left: 37%;
+    top: 6%;
+    color:#f2f3f4 ;
+}
+
+.blue-line {
+    width: 60px;
+    height: 7px;
+    border-radius: 60px;
+    position: absolute;
+    left: 37%;
+    top: 16%;
+}
+
+.about{
+    color:#C0C0C0;
+    font-size: 18px;
+    position: absolute;
+    top: 12%;
+    left: 3%;
+    font-weight: lighter;
+    line-height: 1.7;
+    text-wrap: wrap;
+}
+
+.my-working {
+    font-family: "Ubuntu";
+    position: absolute;
+    font-size: 400;
+    left: 37%;
+    top: 82%;
+    color:#f2f3f4 ;
+}
+
+.work1 {
+    width: 400px;
+    height: 160px;
+    border: 0.2px solid #555555;
+    position: absolute;
+    left: 37%;
+    top: 90%;
+    background-color:#1b1b1b ;
+    border-radius: 15px;
+    animation: fadeIn 4s;
+    
+}
+
+.css {
+    position: absolute;
+    top: 24%;
+    left: 3%;
+}
+
+.webdesign{
+    position:absolute;
+    top: 18%;
+    left: 19%;
+    font-family: "Ubuntu";
+    color: #f2f3f4;
+    font-size: 20px;
+}
+
+.webdesignhh1{
+    position: absolute;
+    font-family: "Ubuntu";
+    top: 35%; 
+    left: 19%;
+    font-size: 18px;
+    color: #C0C0C0;
+    font-weight: lighter;
+
+}
+
+.html-div {
+    width: 400px;
+    height: 160px;
+    border: 0.2px solid #555555;
+    position: absolute;
+    left: 62%;
+    top: 90%;
+    background-color:#1b1b1b ;
+    border-radius: 15px;
+    animation: fadeIn 4s;
+}
+
+.html-logo {
+    position: absolute;
+    top: 27%;
+    left: 4%;
+}
+
+.html-h1 {
+    position:absolute;
+    top: 22%;
+    left: 20%;
+    font-family: "Ubuntu";
+    color: #f2f3f4;
+    font-size: 20px;
+}
+
+.html-h2 {
+    position: absolute;
+    font-family: "Ubuntu";
+    top: 37.3%; 
+    left: 20%;
+    font-size: 18px;
+    color: #C0C0C0;
+    font-weight: lighter;
+}
+
+.front-end-job{
+    width: 400px;
+    height: 160px;
+    border: 0.2px solid #555555;
+    position: absolute;
+    left: 50%;
+    top: 110%;
+    background-color:#1b1b1b ;
+    border-radius: 15px;
+    animation: fadeIn 4s;
+}
+
+.laptop-png {
+    position: absolute;
+    top: 29%;
+    left: 3%;
+}
+
+.laptop-h1{
+    position:absolute;
+    top: 22%;
+    left: 20%;
+    font-family: "Ubuntu";
+    color: #f2f3f4;
+    font-size: 20px;
+}
+
+.laptop-h2{
+    position: absolute;
+    font-family: "Ubuntu";
+    top: 37.7%; 
+    left: 19.8%;
+    font-size: 18px;
+    color: #C0C0C0;
+    font-weight: lighter;
+    text-wrap: wrap;
+}
+
+
+
+
+
